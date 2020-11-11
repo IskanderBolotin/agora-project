@@ -1,0 +1,138 @@
+@font-face {
+	font-display: swap;
+	font-family: 'Museo Sans Cyrl';
+	src: url('MuseoSansCyrl-100.eot');
+	src: local('MuseoSansCyrl-100'),
+		url('MuseoSansCyrl-100.eot?#iefix') format('embedded-opentype'),
+		url('MuseoSansCyrl-100.woff') format('woff'),
+		url('MuseoSansCyrl-100.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-display: swap;
+	font-family: 'Museo Sans Cyrl';
+	src: url('MuseoSansCyrl-300.eot');
+	src: local('MuseoSansCyrl-300'),
+		url('MuseoSansCyrl-300.eot?#iefix') format('embedded-opentype'),
+		url('MuseoSansCyrl-300.woff') format('woff'),
+		url('MuseoSansCyrl-300.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-display: swap;
+	font-family: 'Museo Sans Cyrl';
+	src: url('MuseoSansCyrl-500.eot');
+	src: local('MuseoSansCyrl-500'),
+		url('MuseoSansCyrl-500.eot?#iefix') format('embedded-opentype'),
+		url('MuseoSansCyrl-500.woff') format('woff'),
+		url('MuseoSansCyrl-500.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+	font-family: 'Museo Sans Cyrl';
+	src: url('MuseoSansCyrl-700.eot');
+	src: local('MuseoSansCyrl-700'),
+		url('MuseoSansCyrl-700.eot?#iefix') format('embedded-opentype'),
+		url('MuseoSansCyrl-700.woff') format('woff'),
+		url('MuseoSansCyrl-700.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-display: swap;
+	font-family: 'Museo Sans Cyrl';
+	src: url('MuseoSansCyrl-900.eot');
+	src: local('MuseoSansCyrl-900'),
+		url('MuseoSansCyrl-900.eot?#iefix') format('embedded-opentype'),
+		url('MuseoSansCyrl-900.woff') format('woff'),
+		url('MuseoSansCyrl-900.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto Light'),
+    local('Roboto-Light'), 
+    url('Robotolight.woff2') format('woff2'), 
+    url('Robotolight.woff') format('woff'), 
+    url('Robotolight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), 
+    url('Roboto.woff2') format('woff2'), 
+    url('Roboto.woff') format('woff'), 
+    url('Roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), 
+    local('Roboto-Medium'),
+    url('Robotomedium.woff2') format('woff2'), 
+    url('Robotomedium.woff') format('woff'),
+    url('Robotomedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), 
+    local('Roboto-MediumItalic'), 
+    url('Robotomediumitalic.woff2') format('woff2'), 
+    url('Robotomediumitalic.woff') format('woff'), 
+    url('Robotomediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), 
+    local('Roboto-Bold'), 
+    url('Robotobold.woff2') format('woff2'), 
+    url('Robotobold.woff') format('woff'), 
+    url('Robotobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto';
+    src: local('Roboto Black'),
+    local('Roboto-Black'), 
+    url('Robotoblack.woff2') format('woff2'),
+    url('Robotoblack.woff') format('woff'),
+    url('Robotoblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto-bold';
+    src: local('Roboto Bold'), 
+    url('Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+	font-display: swap;
+    font-family: 'Roboto-medium';
+    src: local('Roboto Medium'), 
+    url('Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
